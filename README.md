@@ -3,5 +3,5 @@ com o backend do gofinances
 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/voomp-logo.jpg" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/income.svg" />
 </h1>
